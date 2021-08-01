@@ -1,4 +1,4 @@
-# Real-Time-Violance_detection
+# Enhancing Violence Detection in Video Sequences Based on Deep Learning Techniques 
 The method consists of extracting a set of frames belonging to the video, sending them to a pre-trained network called Descent, obtaining the output of one of its final layers, and from these outputs train another network architecture with a type of special neurons called LSTM. These neurons have memory and can analyze the temporal information of the video, if, at any time they detect violence, it will be classified as a violent video.
 # System architecture Diagram (DenseNet)
 ![image](https://user-images.githubusercontent.com/46698452/125191406-9296b000-e242-11eb-81ad-cb7353400c65.png)
